@@ -1,0 +1,52 @@
+==================================================
+Steering Demonstration for First Email
+==================================================
+Test Query:
+Draft an email invitation for the Final Demo of the Zeta Feature, scheduled for November 5, 2025, at 3:30 PM in the Large Auditorium. The event is hosted and sent by Casey.
+
+Subject: Final Demo of the Zeta Feature – You’re Invited!
+
+
+
+--- Ideal Styled Response (from file) ---
+Subject: Final Demo of the Zeta Feature – You’re Invited!
+Hey everyone,
+We’re wrapping up the Zeta Feature, and I’d love for you to join us for the final demo. The team’s put in a lot of work, and it’s time to see it all come together.
+When: November 5, 2025, at 3:30 PM
+Where: Large Auditorium
+Come by to check it out, share your thoughts, and hang around for a bit afterward.
+See you there,
+Casey
+
+--- Steered Generated Response (Live, Method: MEAN) ---
+Hi everyone,
+
+We’re getting close to the final demo of the Zeta Feature. The presentation will be held on November 5, 2025, at 3:30 PM in the Large Auditorium. I hope to see you there!
+
+Best,
+
+Casey
+
+--- Steered Generated Response (Live, Method: LOGREG) ---
+Hey,
+
+As you know, we have been working on a new feature for the Zeta product, and we are finally ready to show it to you.
+
+We have scheduled a final demo for November 5, 2025, at 3:30 PM in the Large Auditorium.
+
+I look forward to seeing you there.
+
+Best,
+
+Casey
+
+--- Steered Generated Response (Live, Method: PCA) ---
+We are thrilled to announce that the Zeta Feature is ready for a final demo. The demo will take place on November 5, 2025, at 3:30 PM in the Large Auditorium.
+
+This demo will showcase the Zeta Feature's unique capabilities and how it can revolutionize your work. Join us to see firsthand how the Zeta Feature can transform your workflow.
+
+The Zeta Feature is a groundbreaking tool that can help you achieve your goals with ease and efficiency.
+
+We are excited to invite you to this demo and show you how the Zeta Feature can help you reach your full potential.
+
+Test finished.

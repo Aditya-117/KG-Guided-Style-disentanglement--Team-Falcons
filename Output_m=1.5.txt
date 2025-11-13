@@ -1,0 +1,64 @@
+==================================================
+Steering Demonstration for First Email
+==================================================
+Test Query:
+Write an email inviting participants to the following event.
+Ensure the email tone matches the style instruction and stays under 100 words.
+
+Event Details:
+- Date: 2020-04-20 00:00:00
+- Time: 00:00:00
+- Venue: San-Francisco
+- Occasion Type: Technology,business
+- Host: Product School Bangalore
+- Event: Webinar: PM in a Startup Setting by Alexa Product Lead
+
+
+--- Ideal Styled Response (from file) ---
+Subject: You're Invited! Webinar: PM in a Startup Setting
+
+Hi everyone,
+
+We'd be delighted if you could join us for a special webinar hosted by Product School Bangalore!
+
+We'll be diving into "PM in a Startup Setting" with a fantastic speaker, the Alexa Product Lead. It's a great chance to gain insights into technology and business.
+
+Date: April 20, 2020
+Time: [Insert Time Here]
+Venue: San Francisco (Online - Link to follow!)
+
+We're really looking forward to seeing you there!
+
+Warmly,
+
+The Product School Bangalore Team
+
+--- Steered Generated Response (Live, Method: MEAN) ---
+- Link: https://www.productschool.com/courses/pm-in-a-startup-setting-by-alexa-product-lead
+
+Thank you for your time!
+
+- Product School Bangalore
+
+--- Steered Generated Response (Live, Method: LOGREG) ---
+- URL: https://www.meetup.com/Product-School-Bangalore/events/269015226/
+- Price: Free
+- Language: English
+
+##### [Back to Home](../index.md)
+
+--- Steered Generated Response (Live, Method: PCA) ---
+- Registration Link: https://goo.gl/forms/8XLsJYMJFbGjLK7N2
+
+Registration Requirements:
+- Full name
+- Email address
+- Phone number
+
+If you have any questions, please reach out to us at bangalore@productschool.com.
+
+Best,
+
+Product School Bangalore Team
+
+Test finished.

@@ -1,0 +1,66 @@
+==================================================
+Steering Demonstration for First Email
+==================================================
+Test Query:
+Draft an email invitation for the Final Demo of the Zeta Feature, scheduled for November 5, 2025, at 3:30 PM in the Large Auditorium. The event is hosted and sent by Casey.
+
+Subject: Final Demo of the Zeta Feature – You’re Invited!
+
+
+
+--- Ideal Styled Response (from file) ---
+Subject: Final Demo of the Zeta Feature – You’re Invited!
+Hey everyone,
+We’re wrapping up the Zeta Feature, and I’d love for you to join us for the final demo. The team’s put in a lot of work, and it’s time to see it all come together.
+When: November 5, 2025, at 3:30 PM
+Where: Large Auditorium
+Come by to check it out, share your thoughts, and hang around for a bit afterward.
+See you there,
+Casey
+
+--- Steered Generated Response (Live, Method: MEAN) ---
+Dear Colleagues,
+
+We’re thrilled to announce that the final demo of the Zeta feature is scheduled for November 5, 2025, at 3:30 PM in the Large Auditorium.
+
+The Zeta feature is a revolutionary new way to organize your workspace, and we can’t wait to show you how it works.
+
+Join us as we demonstrate how the Zeta feature can help you to:
+
+- Focus on your most important tasks
+
+- Get more done in less time
+
+- Reduce stress and anxiety
+
+- Improve your overall well-being
+
+Please RSVP to attend
+
+--- Steered Generated Response (Live, Method: LOGREG) ---
+Hi,
+
+We’re excited to announce that the Zeta Feature is almost ready for prime time!  We’re hosting a live demo for the whole company on November 5, 2025 at 3:30 PM in the Large Auditorium.
+
+The Zeta Feature is a new feature that will help us improve the Zeta feature by allowing us to better track and analyze our Zeta feature’s performance.
+
+We’ll be joined by our Zeta feature’s product manager, Casey, who will lead the demo.
+
+We hope to see you there!
+
+[Your name]
+
+--- Steered Generated Response (Live, Method: PCA) ---
+Date: November 5, 2025
+
+Dear Colleagues,
+
+It’s been a long journey, but we’re almost there!
+
+I’m writing to invite you to the final demo of the Zeta Feature, scheduled for November 5, 2025, at 3:30 PM in the Large Auditorium.
+
+The Zeta Feature has been a collaborative effort between our team and other teams across the organization, and we’re excited to showcase the results of our work.
+
+During the demo, we’ll demonstrate how the Zeta Feature has transformed our product and how it’s helping us to
+
+Test finished.

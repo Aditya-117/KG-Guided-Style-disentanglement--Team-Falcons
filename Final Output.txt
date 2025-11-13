@@ -1,0 +1,77 @@
+==================================================
+Steering Demonstration (PCA Only, Multiplier 3.0)
+==================================================
+Test Query (with placeholders):
+Draft an email invitation for the <EVENT>, scheduled for <DATE>, at <TIME> in the <VENUE>. The event is hosted and sent by <HOST>.
+
+Subject: <SUBJECT>
+
+
+
+--- Ideal Styled Response (from file) ---
+Subject: You're Invited! Live SouJava: Microservice Patterns in San-Francisco!
+
+Hi there,
+
+We'd be delighted if you could join us for a special Product School Bangalore event!
+
+Live SouJava: Microservice Patterns - Implemented by Eclipse Microprofile
+
+It's happening on April 20th at 7:00 AM in San-Francisco. We think you'll find this blend of technology and business insights super valuable.
+
+Hope to see you there!
+
+Warmly,
+
+The Product School Bangalore Team
+
+--- Steered Generated Response (Method: PCA) ---
+
+[RAW OUTPUT (with placeholders)]:
+Dear <ADDRESS>,
+
+I'm happy to announce that <HOST> is hosting <EVENT>.
+
+The event will take place at <VENUE> on <DATE> at <TIME>.
+
+If you would like to attend, please RSVP to <HOST> at <EMAIL> or by replying to this email.
+
+Thanks!
+
+<HOST>
+
+[FINAL OUTPUT (re-hydrated)]:
+Dear <ADDRESS>,
+
+I'm happy to announce that Product School Bangalore is hosting LiveSouJava - Microservice Patterns - Implemented by Eclipse Microprofile..
+
+The event will take place at San Francisco on April 20, 2020 at 7:00 AM.
+
+If you would like to attend, please RSVP to Product School Bangalore at <EMAIL> or by replying to this email.
+
+Thanks!
+
+Product School Bangalore
+
+[Re-hydration Log]:
+{
+  "EVENT": [
+    "<EVENT> \u2192 LiveSouJava - Microservice Patterns - Implemented by Eclipse Microprofile."
+  ],
+  "HOST": [
+    "<HOST> \u2192 Product School Bangalore",
+    "<HOST> \u2192 Product School Bangalore",
+    "<HOST> \u2192 Product School Bangalore"
+  ],
+  "DATE": [
+    "<DATE> \u2192 April 20, 2020"
+  ],
+  "VENUE": [
+    "<VENUE> \u2192 San Francisco"
+  ],
+  "TIME": [
+    "<TIME> \u2192 7:00 AM"
+  ]
+}
+
+Test finished.

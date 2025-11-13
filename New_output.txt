@@ -1,0 +1,91 @@
+==================================================
+Steering Demonstration for First Email
+==================================================
+Test Query:
+Draft an email invitation for the Live SouJava- Microservice Patterns - Implemented by Eclipse Microprofile, scheduled for 2020-04-20 00:00:00, at 07:00:00 in the San-Francisco. The event is hosted and sent by Product School Bangalore.
+
+Subject: You're Invited! Live SouJava: Microservice Patterns in San-Francisco!
+
+
+
+--- Ideal Styled Response (from file) ---
+Subject: You're Invited! Live SouJava: Microservice Patterns in San-Francisco!
+
+Hi there,
+
+We'd be delighted if you could join us for a special Product School Bangalore event!
+
+Live SouJava: Microservice Patterns - Implemented by Eclipse Microprofile
+
+It's happening on April 20th at 7:00 AM in San-Francisco. We think you'll find this blend of technology and business insights super valuable.
+
+Hope to see you there!
+
+Warmly,
+
+The Product School Bangalore Team
+
+--- Steered Generated Response (Live, Method: MEAN) ---
+Hi {first.last},
+
+I'd like to invite you to the Live SouJava: Microservice Patterns in San-Francisco!
+
+### Who is this event for?
+
+This event is for:
+
+- Software developers who want to learn and discuss Microservice Patterns
+
+### What will you learn?
+
+- What are microservice patterns and why they are important?
+- How to implement microservice patterns using Eclipse Microprofile
+
+### What to bring?
+
+- Laptop (to follow the tutorial)
+- Charger
+
+### What do I need to prepare before the event?
+
+- We recommend that you take a look at the documentation
+
+--- Steered Generated Response (Live, Method: LOGREG) ---
+Date: 2020-04-20 00:00:00
+
+Location: San-Francisco
+
+You are invited to attend Live SouJava: Microservice Patterns in San-Francisco on April 20, 2020!
+
+Speaker: SouJava
+
+You can RSVP here: https://www.meetup.com/Product-School-Bangalore/events/269083670/
+
+We look forward to seeing you there!
+
+Team Product School
+
+--- Steered Generated Response (Live, Method: PCA) ---
+Hi,
+
+I'd like to invite you to join me for a live session on "Microservice Patterns".
+
+Date: April 20, 2020
+
+Time: 7:00pm - 9:00pm
+
+Location: San-Francisco
+
+This is a live online event. You can join from anywhere in the world.
+
+Please register here: https://www.productschool.com/live-soujava/microservice-patterns
+
+If you have any questions, please let me know.
+
+Thank you!
+
+SouJava
+
+SouJava is a meetup group of product professionals,
+
+Test finished.
