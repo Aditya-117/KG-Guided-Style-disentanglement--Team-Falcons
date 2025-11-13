@@ -1,11 +1,15 @@
 # Disentangling Style and Semantics for Calendar-Driven Text Generation: A Knowledge Graph-Guided Activation Steering Approach
 
+
 ## 🧠 Authors
 - **Tanmay Kumar Shrivastava** – BTech Final Year, DSAI, IIT Bhilai  
 - **Aditya Bajpai** – BTech Final Year, CSE, IIT Bhilai  
 - **Anil Kumar Mandal** – BTech Final Year, CSE, IIT Bhilai  
 
 ---
+
+
+![Alt Text](ImageP.jpeg)
 
 ## 📑 Overview
 This project proposes a **Knowledge Graph-Guided Activation Steering (KG-GAS)** framework that enables large language models (LLMs) to generate **personalized, stylistically adaptive, and factually consistent** text for **calendar-driven communications** (e.g., invitations, announcements).
